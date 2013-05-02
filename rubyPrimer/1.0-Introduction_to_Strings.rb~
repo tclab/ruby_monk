@@ -1,6 +1,0 @@
-# String construction 
-puts "Ruby Monk"
-
-# Literal forms
-puts 'March'
-puts "March"
